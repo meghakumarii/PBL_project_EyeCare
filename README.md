@@ -1,8 +1,4 @@
-# Mahmuda Eye-Care-Hospital
-
-### A trust-vision hospital of 20 years experience.
-
-###### Visit Our Website https://eye-healthcare.web.app/
+# AIT Eye-Care-Hospital
 
   
 
